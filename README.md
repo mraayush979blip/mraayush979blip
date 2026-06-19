@@ -5,21 +5,6 @@
 <br />
 
 <div align="center">
-  <h2>Welcome to my GitHub profile! 🚀</h2>
-  <p>I'm a passionate developer building modern, beautiful, and performant applications.</p>
-
-  <br />
-
-  <h3>🛠️ Tools & Technologies</h3>
-  <br />
-  <p>
-    <a href="https://skillicons.dev">
-      <!-- These are beautiful, modern, glass-like icons -->
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,docker,linux&theme=dark" alt="My Skills" />
-    </a>
-  </p>
-
-  <br />
 
   <h3>📊 GitHub Stats</h3>
   <br />
