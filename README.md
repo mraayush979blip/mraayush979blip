@@ -6,16 +6,12 @@
 
 <div align="center">
 
-  <h3>📊 GitHub Stats</h3>
-  <br />
-  <p>
-    <!-- Custom matched theme to perfectly blend with the liquid glass SVG colors -->
-    <img src="https://github-readme-stats.vercel.app/api?username=mraayush979blip&show_icons=true&bg_color=0f172a&title_color=00dfd8&text_color=cbd5e1&icon_color=ff0080&border_color=334155&border_radius=15" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraayush979blip&layout=compact&bg_color=0f172a&title_color=00dfd8&text_color=cbd5e1&icon_color=ff0080&border_color=334155&border_radius=15" alt="Top Languages" width="48%" />
+  <!-- 📊 GitHub Stats -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mraayush979blip&show_icons=true&bg_color=0f172a&title_color=ffffff&text_color=cbd5e1&icon_color=00dfd8&border_color=334155&border_radius=24" alt="GitHub Stats" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraayush979blip&layout=compact&bg_color=0f172a&title_color=ffffff&text_color=cbd5e1&border_color=334155&border_radius=24" alt="Top Languages" height="195" />
   </p>
-  <br />
-  <p>
-    <!-- Streak stats with matching neon accents -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mraayush979blip&theme=dark&background=0f172a&ring=ff0080&fire=ff0080&currStreakNum=cbd5e1&currStreakLabel=00dfd8&sideNums=cbd5e1&sideLabels=00dfd8&dates=cbd5e1&stroke=334155&border_radius=15" alt="GitHub Streak" />
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mraayush979blip&theme=dark&background=0f172a&ring=ff0080&fire=ff0080&currStreakNum=ffffff&currStreakLabel=cbd5e1&sideNums=ffffff&sideLabels=cbd5e1&dates=cbd5e1&stroke=334155&border_radius=24" alt="GitHub Streak" height="195" />
   </p>
 </div>
